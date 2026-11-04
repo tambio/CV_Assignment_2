@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+dataset/
+dataset_split/
+dataset_resized/
+*.pth
+.DS_Store
